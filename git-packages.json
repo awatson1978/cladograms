@@ -1,0 +1,20 @@
+{
+  "clinical:active-layout": {
+    "git": "https://github.com/clinical-meteor/active-layout.git"
+  },
+  "clinical:active-layout-pagescreen-config": {
+    "git": "https://github.com/clinical-meteor/active-layout-pagescreen-config.git"
+  },
+  "clinical:active-layout-reset": {
+    "git": "https://github.com/clinical-meteor/active-layout-rest.git"
+  },
+  "clinical:error-pages": {
+    "git": "https://github.com/clinical-meteor/clinical-error-pages.git"
+  },
+  "clinical:extended-api": {
+    "git": "https://github.com/clinical-meteor/extended-api.git"
+  },
+  "clinical:csv": {
+    "git": "https://github.com/clinical-meteor/csv.git"
+  }
+}
