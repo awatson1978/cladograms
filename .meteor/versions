@@ -25,10 +25,10 @@ clinical:fonts@1.0.0
 clinical:glass-ui@1.3.11
 clinical:keybindings@1.3.0
 clinical:modals@1.0.7
-clinical:router@2.0.17
-clinical:router-location@2.0.14
-clinical:router-middleware-stack@2.0.13
-clinical:router-url@2.0.15
+clinical:router@2.0.19
+clinical:router-location@2.1.0
+clinical:router-middleware-stack@2.1.2
+clinical:router-url@2.1.0
 clinical:theming@0.4.10
 clinical:theming-ui@0.2.3
 clinical:user-model@1.4.2
